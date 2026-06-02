@@ -17,7 +17,7 @@
   },
   {
     id: 3,
-    titulo: 'KIKI'S DELIVERY SERVICE',
+    titulo: 'KIKIS DELIVERY SERVICE',
     ano: 1989,
   estrelas: 4.1,
     preco: 14.90,
@@ -33,7 +33,7 @@
   },
   {
     id: 5,
-     titulo: 'HOWL'S MOVING CASTLE',
+     titulo: 'HOWLS MOVING CASTLE',
     ano: 2004,
   estrelas: 4.4,
     preco: 24.90,
